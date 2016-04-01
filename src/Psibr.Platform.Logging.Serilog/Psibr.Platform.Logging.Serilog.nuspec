@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Psibr.Platform.Logging.Serilog</id>
+    <version>$version$</version>
+    <authors>Ovan Crone</authors>
+    <owners>Ovan Crone</owners>
+    <licenseUrl>https://github.com/psibr/Platform.Nancy/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/psibr/Platform.Nancy</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Common components for building a web based platform.</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>web logging auth authentication configuration json nancy</tags>
+    <dependencies>
+      <dependency id="Psibr.Platform" version="1.2.0.0" />
+    </dependencies>
+  </metadata>
+</package>
